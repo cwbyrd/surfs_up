@@ -5,7 +5,7 @@ Using SQLlite and Jupyter Notebook for Python to analyze weather data for the su
 ### June Data 
 To obtain June data, we did queries via SQLite and SQLAlchemy. We set up a query to obtain date and temperature data for June of all years in the data. The results are as captured in the below link. 
 
-
+https://github.com/cwbyrd/surfs_up/blob/main/Resources/June%20temperature%20Stats.PNG
 
 
 ### December Data
